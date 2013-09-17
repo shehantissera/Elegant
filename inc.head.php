@@ -9,7 +9,7 @@
 <meta charset="utf-8" />
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Vencorp - Multipurpose Responsive HTML5 Themes with Animated Metro Slider</title>
+<title>MErickson Tours</title>
 <!-- InstanceEndEditable -->
 <meta name="keywords" content="HTML5 Template" />
 <meta name="description" content="Vencorp - Multipurpose Responsive HTML5 Themes with Animated Metro Slider" />

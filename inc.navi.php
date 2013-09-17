@@ -14,18 +14,10 @@
                 </div>
                 <div class="vc_primary-menu pull-left">
                     <ul>
-                        <li> <a href="index.html"> Home <i class="icon-caret-down"> </i> </a>
-                            <div class="vc_menu-open-right vc_menu-2-v">
-                                <ul class="clearfix">
-                                    <li> <a href="index.html"> Metro Slider Sketch </a> </li>
-                                    <li> <a href="index-portfolio.html"> Metro Slider Portfolio </a> </li>
-                                    <li> <a href="index-revolution.html"> Revolution Slider </a> </li>
-                                    <li> <a href="index-simple-slide.html"> Caroufredsel Slider </a> </li>
-                                </ul>
-                            </div>
+                        <li> <a href="index.php"> Home </i> </a>
                         </li>
-                        <li> <a href="about.html"> About Us </a> </li>
-                        <li> <a href="features-typography.html"> Features <i class="icon-caret-down"> </i> </a>
+                        <li> <a href="about.php"> About Us </a> </li>
+                        <li> <a href="features-typography.html"> Tours <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-right vc_menu-2-v">
                                 <ul class="clearfix">
                                     <li> <a href="features-typography.html"> Typography </a> </li>
@@ -45,7 +37,7 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="portfolio-2-columns.html"> Portfolio <i class="icon-caret-down"> </i> </a>
+                        <li> <a href="portfolio-2-columns.html"> Services <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-right vc_menu-2-h">
                                 <ul class="clearfix">
                                     <li> <a href="portfolio-2-columns.html"> 2 Columns </a> </li>
@@ -58,7 +50,7 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="pages-team-members.html"> Pages <i class="icon-caret-down"> </i> </a>
+                        <li> <a href="pages-team-members.html"> Portfolio <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-left vc_menu-2-v">
                                 <ul class="clearfix">
                                     <li> <a href="pages-team-members.html"> Team Members </a> </li>
@@ -89,7 +81,7 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="contact.html"> Contact Us </a> </li>
+                        <li> <a href="contact.php"> Contact Us </a> </li>
                     </ul>
                     <!-- Head menu search form ends --> 
                 </div>
@@ -106,10 +98,10 @@
                 <div class="vc_contact-top-wrapper span9 row-fluid">
                     <div class="vc_contact-top pull-right">
                         <div class="pull-left">
-                            <h5> <span> <i class="icon-envelope"> </i> email@yourcompany.com </span> </h5>
+                            <h5> <span> <i class="icon-envelope"> </i> ericksontissera@yahoo.com </span> </h5>
                         </div>
                         <div class="pull-left">
-                            <h5> <span> <i class="icon-phone"> </i> +1-866-123-4569 </span> </h5>
+                            <h5> <span> <i class="icon-phone"> </i> +94-777-374-013 </span> </h5>
                         </div>
                     </div>
                 </div>

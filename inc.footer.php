@@ -11,7 +11,7 @@
             <div class="row-fluid">
                 <div id="vc_about-widget" class="widget span3 clearfix">
                     <div class="vc_about">
-                        <h4> About Vencorp </h4>
+                        <h4> About MErickson Tours </h4>
                         <p> Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh. </p>
                         <div class="vc_address">
                             <table>
@@ -19,18 +19,18 @@
                                     <tr>
                                         <td class="icon"><i class="icon-map-marker"> </i></td>
                                         <td><address>
-                                                8605 Santa Monica Blvd<br />
-                                                Los Angeles<br />
-                                                California 97845, United States<br />
+                                                No 25, Mark Road<br />
+                                                Periyamulla<br />
+                                                Negombo 11500, Sri Lanka<br />
                                             </address></td>
                                     </tr>
                                     <tr>
                                         <td class="icon"><i class="icon-phone"> </i></td>
-                                        <td> +91-22-21144113 </td>
+                                        <td> +94-777-374-013 </td>
                                     </tr>
                                     <tr>
                                         <td class="icon"><i class="icon-envelope"> </i></td>
-                                        <td> info@venmond.com </td>
+                                        <td> ericksontissera@yahoo.com </td>
                                     </tr>
                                 </tbody>
                             </table>
