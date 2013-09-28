@@ -86,11 +86,8 @@
                                             <label class="control-label" for="contact-form-service">Service</label>
                                             <div class="controls">
                                                 <select id="contact-form-service" name="contact-form-service">
-                                                    <option />Web Design
-                                                    <option />Logo Design
-                                                    <option />Marketing
-                                                    <option />Illustration
-                                                    <option />Others
+                                                    <option />Information
+                                                    <option />Tour Inquiry
                                                 </select>
                                             </div>
                                         </div>
@@ -131,10 +128,12 @@
                                             <h4 class="vc_bg-blue"><i class="icon-map-marker"></i> Our Headquarters</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
-                                                    <li>Map Address 90210<br />
-                                                        Los Angeles <br />
-                                                        California 97845<br />
-                                                        United States</li>
+                                                    <li>No. 25<br />
+                                                        Mark Road,<br />
+                                                        Periyamulla,<br />
+                                                        Negombo, 11500<br>
+                                                        Sri Lanka.
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -142,8 +141,8 @@
                                             <h4 class="vc_bg-orange"><i class="icon-phone"></i> Call us</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
-                                                    <li>Toll Free: 1800-135-4656</li>
-                                                    <li>Fax: 1800-123-4567</li>
+                                                    <li>Mobile: +94-777-374-013</li>
+                                                    <li>Phone: +94-312-239-524</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -151,8 +150,8 @@
                                             <h4 class="vc_bg-green"><i class="icon-envelope-alt"></i> Email Addresses</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
-                                                    <li>sales@vencorp.com</li>
-                                                    <li>support@vencorp.com</li>
+                                                    <li>ericksontissera@yahoo.com</li>
+                                                    <li>shehanproductions@ymail.com</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -160,9 +159,7 @@
                                             <h4 class="vc_bg-red"><i class="icon-time"></i> Business Hour</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
-                                                    <li>Monday - Friday 9am to 5pm </li>
-                                                    <li>Saturday - 9am to 2pm</li>
-                                                    <li>Sunday - Closed</li>
+                                                    <li>Available 24/7, 365 Days</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -186,7 +183,7 @@
                 <?php include_once "inc.footer.php"; ?>
             </footer>
         </div>
-        <a class="back-top" href="#" id="back-top"> <i class="icon-chevron-up icon-white"> </i> </a> 
+        <a class="back-top" href="#" id="back-top"> <i class="icon-chevron-up icon-white"> </i> </a>
 
         <!-- Javascript =============================================== --> 
         <!-- Placed at the end of the document so the pages load faster --> 
@@ -212,12 +209,12 @@
         <script type="text/javascript">
             $(document).ready(function() {
                 $('#map').gMap({
-                    address: 'Los Angeles, United States',
+                    address: 'Periyamulla, Sri Lanka',
                     maptype: 'ROADMAP',
                     zoom: 14,
                     markers: [
                         {
-                            address: "Los Angeles, United States",
+                            address: "Periyamulla, Sri Lanka",
                             html: '<div style="width: 300px; padding:10px;"><h3 style="padding-bottom: 5px;"  class="vc_main-color">Our Headquarter</h3><p>Our mission is to help people to <strong>earn</strong> and to <strong>learn</strong> online. We operate <strong>marketplaces</strong> where hundreds of thousands of people buy and sell digital goods every day, and a network of educational blogs where millions learn <strong>creative skills</strong>.<br/></p></div>',
                             icon: {
                                 image: "img/blue.png",
