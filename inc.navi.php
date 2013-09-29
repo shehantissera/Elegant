@@ -8,7 +8,7 @@
 <div class="container">
     <div class="row-fluid">
         <div class="span12">
-            <nav class="vc_menu pull-left"> <a href="index.html" class="logo pull-left"> <img alt="logo" src="img/logo.png" /> </a>
+            <nav class="vc_menu pull-left"> <a href="index.php" class="logo pull-left"> <img alt="logo" src="img/logo.png" /> </a>
                 <div class="navbar navbar-inverse">
                     <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".vc_primary-menu"> <span class="icon-bar"> </span> <span class="icon-bar"> </span> <span class="icon-bar"> </span> </button>
                 </div>

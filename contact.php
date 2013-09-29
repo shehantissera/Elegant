@@ -156,7 +156,7 @@
                                             </div>
                                         </div>
                                         <div class="contact-info">
-                                            <h4 class="vc_bg-red"><i class="icon-time"></i> Business Hour</h4>
+                                            <h4 class="vc_bg-red"><i class="icon-time"></i> Business Hours</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
                                                     <li>Available 24/7, 365 Days</li>
