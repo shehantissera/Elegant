@@ -12,7 +12,7 @@
                 <div id="vc_about-widget" class="widget span3 clearfix">
                     <div class="vc_about">
                         <h4> About MErickson Tours </h4>
-                        <p> Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh. </p>
+                        <p>Find more information about us on the following links and other social media links.</p>
                         <div class="vc_address">
                             <table>
                                 <tbody>
@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div class="span6">
-                        <div class="menu pull-right"> <a href="pages-faq.html"> FAQ </a> <a href="pages-sitemap.html"> Sitemap </a> <a href="contact.html"> Contact </a>
+                        <div class="menu pull-right"> <a href="pages-faq.html"> FAQ </a> <a href="pages-sitemap.html"> Sitemap </a> <a href="contact.php"> Contact </a>
                         </div>
                     </div>
                 </div>

@@ -9,7 +9,7 @@
 <meta charset="utf-8" />
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>MErickson Tours</title>
+<title>MErickson Tours & Travels</title>
 <!-- InstanceEndEditable -->
 <meta name="keywords" content="HTML5 Template" />
 <meta name="description" content="Vencorp - Multipurpose Responsive HTML5 Themes with Animated Metro Slider" />
@@ -40,7 +40,7 @@
 <!-- Plugin CSS -->
 <link href="plugins/prettyPhoto-plugin/css/prettyPhoto.css" rel="stylesheet" type='text/css' />
 <link href="plugins/isotope-plugin/css/isotope.css" rel="stylesheet" type='text/css' />
-<link rel="stylesheet" type="text/css" href="plugins/rs-plugin/css/settings.css" media="screen" />
+<!--<link rel="stylesheet" type="text/css" href="plugins/rs-plugin/css/settings.css" media="screen" />-->
 
 <!-- Theme CSS -->
 <link href='css/theme.css' rel='stylesheet' type='text/css' />

@@ -51,7 +51,7 @@
             <div class="vc_history block">
                 <div class="container">
                     <div class="row-fluid"> 
-                        <h3>Since 2007</h3>
+                        <h3>Since 1991</h3>
                         <p> <img alt="example image" class="vc_right" src="img/about/logo-about.jpg" />Ut sit amet dignissim libero. Integer scelerisque, eros interdum suscipit rhoncus, mauris felis eleifend libero, a adipiscing arcu sapien eu nisi. Proin vehicula lacus non lacus lobortis ultricies. Nulla dui metus, viverra in sodales a, rutrum sed metus. Cras blandit vehicula ligula et fringilla. Suspendisse convallis rutrum arcu nec rutrum. Pellentesque sed felis ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum et sem eu eros fringilla bibendum quis non quam. Nunc tempor sodales tempus. </p>
                         <p> Ut sit amet dignissim libero. Integer scelerisque, eros interdum suscipit rhoncus, mauris felis eleifend libero, a adipiscing arcu sapien eu nisi. Proin vehicula lacus non lacus lobortis ultricies. Nulla dui metus, viverra in sodales a, rutrum sed metus. Cras blandit vehicula ligula et fringilla. Suspendisse convallis rutrum arcu nec rutrum. Pellentesque sed felis ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum et sem eu eros fringilla bibendum quis non quam. Nunc tempor sodales tempus. Ut sit amet dignissim libero. Integer scelerisque, eros interdum suscipit rhoncus, mauris felis eleifend libero, a adipiscing arcu sapien eu nisi. Proin vehicula lacus non lacus lobortis ultricies. </p>
                     </div>
@@ -72,15 +72,15 @@
                                     <article class="blog-row clearfix">
                                         <div class="blog-left">
                                             <div class="vc_row"> <img alt="example image" src="img/about/01.jpg" /> </div>
-                                            <div class="vc_social-share"> <a title="Twitter" class="twitter" href="#"> Twitter </a> <a title="Facebook" class="facebook" href="#"> Facebook </a> <a title="Gplus" class="gplus" href="#"> G+ </a> <a title="email" class="email" href="#"> Email </a> </div>
+                                            <div class="vc_social-share"> <a title="Twitter" class="twitter" href="#"> Twitter </a> <a title="Facebook" class="facebook" href="#"> Facebook </a> <a title="Gplus" class="gplus" href="#"> G+ </a> <a title="email" class="email" href="ericksontissera@yahoo.com"> Email </a> </div>
                                         </div>
                                         <div class="blog-right clearfix">
                                             <div class="information vc_row">
-                                                <h4> Anna Marianne </h4>
+                                                <h4> Erickson Tissera </h4>
                                                 <span class="position vc_inverted">CEO</span> </div>
                                             <div class="vc_address vc_row">
-                                                <div class="span6"><i class="icon-phone"></i>+91-22-21144113</div>
-                                                <div class="span6"><i class="icon-envelope-alt"></i>info@venmond.com</div>
+                                                <div class="span6"><i class="icon-phone"></i>+94-777-374-013</div>
+                                                <div class="span6"><i class="icon-envelope-alt"></i>ericksontissera@yahoo.com</div>
                                             </div>
                                             <div class="description vc_row">
                                                 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus congue lacus eget neque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. </p>
@@ -90,18 +90,18 @@
                                     <article class="blog-row clearfix">
                                         <div class="blog-left">
                                             <div class="vc_row"> <img alt="example image" src="img/about/02.jpg" /> </div>
-                                            <div class="vc_social-share"> <a title="Twitter" class="twitter" href="#"> Twitter </a> <a title="Facebook" class="facebook" href="#"> Facebook </a> <a title="Gplus" class="gplus" href="#"> G+ </a> <a title="email" class="email" href="#"> Email </a> </div>
+                                            <div class="vc_social-share"> <a title="Twitter" class="twitter" href="#"> Twitter </a> <a title="Facebook" class="facebook" href="#"> Facebook </a> <a title="Gplus" class="gplus" href="#"> G+ </a> <a title="email" class="email" href="shehanproductions@ymail.com"> Email </a> </div>
                                         </div>
                                         <div class="blog-right clearfix">
                                             <div class="information vc_row">
-                                                <h4> John Dowel </h4>
+                                                <h4> Shehan Tissera </h4>
                                                 <span class="position vc_inverted">Head Developer</span> </div>
                                             <div class="vc_address vc_row">
-                                                <div class="span6"><i class="icon-phone"></i>+91-22-21144113</div>
-                                                <div class="span6"><i class="icon-envelope-alt"></i>info@venmond.com</div>
+                                                <div class="span6"><i class="icon-phone"></i>+94-770-727-245</div>
+                                                <div class="span6"><i class="icon-envelope-alt"></i>shehanproductions@ymail.com</div>
                                             </div>
                                             <div class="description vc_row">
-                                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus congue lacus eget neque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. </p>
+                                                <p> Currently employed as a software engineer with experience on developing Customized ERP systems, billing systems and website development and designing. </p>
                                             </div>
                                         </div>
                                     </article>
@@ -112,14 +112,14 @@
                                         </div>
                                         <div class="blog-right clearfix">
                                             <div class="information vc_row">
-                                                <h4> Chris Kam </h4>
-                                                <span class="position vc_inverted">Lead Designer</span> </div>
+                                                <h4> Shenic Tissera </h4>
+                                                <span class="position vc_inverted">Administrative Assistant</span> </div>
                                             <div class="vc_address vc_row">
-                                                <div class="span6"><i class="icon-phone"></i>+91-22-21144113</div>
-                                                <div class="span6"><i class="icon-envelope-alt"></i>info@venmond.com</div>
+                                                <div class="span6"><i class="icon-phone"></i>+94-756-806-013</div>
+                                                <div class="span6"><i class="icon-envelope-alt"></i>shenictissera@rocketmail.com</div>
                                             </div>
                                             <div class="description vc_row">
-                                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus congue lacus eget neque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus congue lacus eget neque. </p>
+                                                <p>I Assist :)  Yes, I have a sense of humor.</p>
                                             </div>
                                         </div>
                                     </article>
@@ -290,7 +290,7 @@
         <script src="js/theme.js"></script>
         <script src="js/custom.js"></script>
 
-        <script src="demo/demo.js"></script>
+<!--        <script src="demo/demo.js"></script>-->
 
         <!-- InstanceBeginEditable name="script" -->
         <!-- Specific Page Scripts Put Here -->

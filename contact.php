@@ -46,7 +46,7 @@
                         <div class="row-fluid">
                             <div class="span8">
                                 <h2>Send Us an <span class="vc_main-color">Email</span></h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidtation ullamco. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidtation ullamco. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incidtation ullamco.</p>
+                                <p>Thank you for visiting our site. You can also visit the other two websites to find more information about us and our service The websites are as <a href="http://www.srilanka-trips.com">www.srilanka-trips.com</a> and <a href="http://www.srilanka-erickson.com/">www.srilanka-erickson.com</a>. Please feel free to email or contact us for any inquiry. We are glad to help you with your issues.</p>
                                 <div id="contact-form-result" style="display:none;">
                                     <div id="success" class="alert alert-success hidden">
                                         <button type="button" class="close" data-dismiss="alert">&times;</button>
@@ -200,7 +200,7 @@
         <script src="js/theme.js"></script>
         <script src="js/custom.js"></script>
 
-        <script src="demo/demo.js"></script>
+<!--        <script src="demo/demo.js"></script>-->
 
         <!-- InstanceBeginEditable name="script" --> 
         <!-- Specific Page Scripts Put Here --> 
