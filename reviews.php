@@ -66,10 +66,6 @@
 			
 		  ?>
 		  
-          <!--<li><a href="#" data-filter=".p-icons">Icons</a></li>
-          <li><a href="#" data-filter=".p-illustration">Illustration</a></li>
-          <li><a href="#" data-filter=".p-web">Web Design</a></li>
-          <li><a href="#" data-filter=".p-logo">Logo</a></li>-->
 
         </ul>
         <div id="portfolio" class="portfolio-2 row clearfix">
@@ -94,7 +90,7 @@
 					}
 					
 					echo "<div class='portfolio-item ".$country." span6'>";
-					echo "	<div class='vc_anim vc_anim-slide'> <a href='portfolio-single-project.html' class='vc_preview'> <img alt='".$name."' src='img/portfolio/".$file."' /> </a>";
+					echo "	<div class='vc_anim vc_anim-slide'> <a href='portfolio-single-project.html' class='vc_preview'> <img alt='".$name."' src='img/portfolio/02.jpg' /> </a>";
 					echo "	  <div class='vc_hover'>";
 					echo "		<div class='hover-wrapper'>";
 					echo "		  <div class='text-wrapper'>";
@@ -103,12 +99,12 @@
 					echo "		  </div>";
 					echo "		  <div class='icon-wrapper'>";
 					echo "			<ul>";
-					echo "			  <li class='vc_icon'> <a href='portfolio-single-project.html'> <i class='icon-link'> </i> </a> </li>";
+					echo "			  <li class='vc_icon'> <a href='viewreview.php'> <i class='icon-link'> </i> </a> </li>";
 					echo "			</ul>";
 					echo "		  </div>";
 					echo "		</div>";
 					echo "	  </div>";
-					echo "	  <div class='vc_category'> <i class='icon-music'></i> </div>";
+					echo "	  <div class='vc_category'> <i class='icon-picture'></i> </div>";
 					echo "	</div>";
 					echo "</div>";
 				}
