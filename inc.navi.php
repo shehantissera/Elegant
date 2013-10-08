@@ -14,8 +14,16 @@
                 </div>
                 <div class="vc_primary-menu pull-left">
                     <ul>
-                        <li> <a href="index.php"> Home <i class="icon-caret-down"> </i> </a> </li>
-                        <li> <a href="about.php"> About Us <i class="icon-caret-down"> </i> </a> </li>
+                        <li> <a href="index.php"> Home  </a> </li>
+                        <li> <a href="about.php"> About <i class="icon-caret-down"> </i> </a>
+							<div class="vc_menu-open-right vc_menu-2-v">
+                                <ul class="clearfix">
+                                    <li> <a href="about.php"> About Us </a> </li>
+                                    <li> <a href="faq.php"> FAQ </a> </li>
+									<li> <a href="sitemap.php"> Sitemap </a> </li>
+                                </ul>
+                            </div>
+						</li>
                         <li> <a href="features-typography.html"> Tours <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-right vc_menu-2-v">
                                 <ul class="clearfix">
@@ -36,29 +44,8 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="services.php"> Services <i class="icon-caret-down"> </i> </a>
-                        </li>
-                        <li> <a href="pages-team-members.html"> Portfolio <i class="icon-caret-down"> </i> </a>
-                            <div class="vc_menu-open-left vc_menu-2-v">
-                                <ul class="clearfix">
-                                    <li> <a href="pages-team-members.html"> Team Members </a> </li>
-                                    <li class="dropdown"> <a href="pages-full-width.html"> Page Layout <i class="icon-caret-right"></i> </a>
-                                        <div class="vc_menu-open-right vc_menu-2-v">
-                                            <ul class="clearfix">
-                                                <li> <a href="pages-full-width.html"> Full Width </a> </li>
-                                                <li> <a href="pages-sidebar-left.html"> Sidebar Left </a> </li>
-                                                <li> <a href="pages-sidebar-right.html"> Sidebar Right </a> </li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li> <a href="pages-404-error.html"> 404 Error </a> </li>
-                                    <li> <a href="pages-services.html"> Services </a> </li>
-                                    <li> <a href="pages-career.html"> Career </a> </li>
-                                    <li> <a href="pages-faq.html"> FAQ </a> </li>
-                                    <li> <a href="pages-sitemap.html"> Sitemap </a> </li>
-                                </ul>
-                            </div>
-                        </li>
+                        <li> <a href="services.php"> Services </a> </li>
+                        <li> <a href="portfolio.php"> Portfolio </a> </li>
                         <li> <a href="blog-list-mini.html"> Blogs <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-left vc_menu-2-v">
                                 <ul class="clearfix">
@@ -69,7 +56,7 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="contact.php"> Contact Us <i class="icon-caret-down"> </i> </a> </li>
+                        <li> <a href="contact.php"> Contact Us </a> </li>
                     </ul>
                     <!-- Head menu search form ends --> 
                 </div>

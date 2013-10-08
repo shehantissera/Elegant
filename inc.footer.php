@@ -105,7 +105,7 @@
                         </div>
                     </div>
                     <div class="span6">
-                        <div class="menu pull-right"> <a href="pages-faq.html"> FAQ </a> <a href="pages-sitemap.html"> Sitemap </a> <a href="contact.php"> Contact </a>
+                        <div class="menu pull-right"> <a href="faq.php"> FAQ </a> <a href="sitemap.php"> Sitemap </a> <a href="contact.php"> Contact us </a>
                         </div>
                     </div>
                 </div>
