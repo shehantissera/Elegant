@@ -389,7 +389,7 @@
         <script src="js/theme.js"></script>
         <script src="js/custom.js"></script>
 
-        <script src="demo/demo.js"></script>
+        <!--<script src="demo/demo.js"></script>-->
 
         <!-- InstanceBeginEditable name="script" -->
         <!-- Specific Page Scripts Put Here -->

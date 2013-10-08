@@ -9,11 +9,11 @@
 <meta charset="utf-8" />
 
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>MErickson Tours & Travels</title>
+<title>MErickson Tours and Travels - Home - Sri Lanka, Negombo</title>
 <!-- InstanceEndEditable -->
-<meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Vencorp - Multipurpose Responsive HTML5 Themes with Animated Metro Slider" />
-<meta name="author" content="Venmond" />
+<meta name="description" content="Plan your perfect tour in Sri Lanka with MErickson Tours & Travels which is located in Negombo, Sri Lanka. Do the tour as for your requirement with us and make your tour be memorable for your entire life.">
+<meta name="keywords" content="Sri Lanka, tours, guide, driver, car, bus, van, English speaking, holiday, vaccation, Ceylon, taxi, airport transfer">
+<meta name="author" content="Shehan Tissera" />
 
 <!-- Set the viewport width to device width for mobile -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />

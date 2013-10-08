@@ -14,9 +14,8 @@
                 </div>
                 <div class="vc_primary-menu pull-left">
                     <ul>
-                        <li> <a href="index.php"> Home </i> </a>
-                        </li>
-                        <li> <a href="about.php"> About Us </a> </li>
+                        <li> <a href="index.php"> Home <i class="icon-caret-down"> </i> </a> </li>
+                        <li> <a href="about.php"> About Us <i class="icon-caret-down"> </i> </a> </li>
                         <li> <a href="features-typography.html"> Tours <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-right vc_menu-2-v">
                                 <ul class="clearfix">
@@ -37,18 +36,7 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="portfolio-2-columns.html"> Services <i class="icon-caret-down"> </i> </a>
-                            <div class="vc_menu-open-right vc_menu-2-h">
-                                <ul class="clearfix">
-                                    <li> <a href="portfolio-2-columns.html"> 2 Columns </a> </li>
-                                    <li> <a href="portfolio-3-columns.html"> 3 Columns </a> </li>
-                                    <li> <a href="portfolio-4-columns.html"> 4 Columns </a> </li>
-                                    <li> <a href="portfolio-left-sidebar.html"> Left Sidebar </a> </li>
-                                    <li> <a href="portfolio-right-sidebar.html"> Right Sidebar </a> </li>
-                                    <li> <a href="portfolio-single-project.html"> Single Project </a> </li>
-                                    <li> <a href="portfolio-single-project-full-width.html"> Single Project Full Width </a> </li>
-                                </ul>
-                            </div>
+                        <li> <a href="services.php"> Services <i class="icon-caret-down"> </i> </a>
                         </li>
                         <li> <a href="pages-team-members.html"> Portfolio <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-left vc_menu-2-v">
@@ -81,12 +69,12 @@
                                 </ul>
                             </div>
                         </li>
-                        <li> <a href="contact.php"> Contact Us </a> </li>
+                        <li> <a href="contact.php"> Contact Us <i class="icon-caret-down"> </i> </a> </li>
                     </ul>
                     <!-- Head menu search form ends --> 
                 </div>
                 <div class="vc_menu-search-wrapper pull-right">
-                    <form class="vc_menu-search" method="post" action="http://metcreative.com/demo/demo_news24/sites/magazine/index.php?" />
+                    <form class="vc_menu-search" method="post" action="#" />
                     <input type="text" name="search" class="vc_menu-search-text" required="" placeholder="Search" />
                     <div class="vc_menu-search-submit"> </div>
                     </form>
