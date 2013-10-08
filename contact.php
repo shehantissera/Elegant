@@ -20,11 +20,10 @@
             <div class="vc_banner-title block">
                 <div class="wrapper">
                     <div class="container">
-                        <h1>Contact Us</h1>
+                        <h1>Contact <span class="vc_main-color">Us</span></h1>
                         <ul class="breadcrumb">
-                            <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-                            <li><a href="contact.html">Contact</a> <span class="divider">/</span></li>
-                            <li class="active">Full Map</li>
+                            <li><a href="index.php">Home</a> <span class="divider">/</span></li>
+                            <li class="active">Contact Us</li>
                         </ul>
                     </div>
                 </div>
@@ -128,7 +127,8 @@
                                             <h4 class="vc_bg-blue"><i class="icon-map-marker"></i> Our Headquarters</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
-                                                    <li>No. 25<br />
+                                                    <li>MErickson Tours & Travels Pvt. Ltd.<br />
+														No. 25<br />
                                                         Mark Road,<br />
                                                         Periyamulla,<br />
                                                         Negombo, 11500<br>

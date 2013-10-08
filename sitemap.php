@@ -21,6 +21,7 @@
         <h1>Sitemap</h1>
         <ul class="breadcrumb">
           <li><a href="index.php">Home</a> <span class="divider">/</span></li>
+		  <li><a href="about.php">About</a> <span class="divider">/</span></li>
           <li class="active">Sitemap</li>
         </ul>
       </div>

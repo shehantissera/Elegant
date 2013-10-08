@@ -34,31 +34,16 @@
       <div class="container"> 
         <ul id="portfolio-filter" class="nav nav-pills">
           <li class="active"><a href="#" data-filter="*">All</a></li>
-          <li><a href="#" data-filter=".p-icons">Icons</a></li>
-          <li><a href="#" data-filter=".p-illustration">Illustration</a></li>
-          <li><a href="#" data-filter=".p-web">Web Design</a></li>
-          <li><a href="#" data-filter=".p-logo">Logo</a></li>
+          <li><a href="#" data-filter=".p-images">Images</a></li>
+          <li><a href="#" data-filter=".p-videos">Videos</a></li>
+          <li><a href="#" data-filter=".p-web">Sri Lanka</a></li>
+          <li><a href="#" data-filter=".p-negombo">Negombo</a></li>
+		  <li><a href="#" data-filter=".p-colombo">Colombo</a></li>
         </ul>
         <div id="portfolio" class="portfolio-4 row clearfix">
-          <div class="portfolio-item p-icons span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/02.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> Link Only Example </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-music"></i> </div>
-            </div>
-          </div>
-          <div class="portfolio-item p-web  span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/03.jpg" /> </a>
+          
+          <div class="portfolio-item p-videos span3">
+            <div class="vc_anim vc_anim-slide"> <a href="#" class="vc_preview"> <img alt="example image" src="http://i1.ytimg.com/vi/ASO_zypdnsQ/mqdefault.jpg"  /> </a>
               <div class="vc_hover">
                 <div class="hover-wrapper">
                   <div class="text-wrapper">
@@ -67,7 +52,6 @@
                   <div class="icon-wrapper">
                     <ul>
                       <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
                     </ul>
                   </div>
                 </div>
@@ -75,7 +59,98 @@
               <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
             </div>
           </div>
-          <div class="portfolio-item p-illustration p-logo span3">
+		  
+		  <div class="portfolio-item p-videos span3">
+            <div class="vc_anim vc_anim-slide"> <a href="#" class="vc_preview"> <img alt="example image" src="http://i1.ytimg.com/vi/H7T6tls7zaw/mqdefault.jpg"  /> </a>
+              <div class="vc_hover">
+                <div class="hover-wrapper">
+                  <div class="text-wrapper">
+                    <h4> Youtube Video Example </h4>
+                  </div>
+                  <div class="icon-wrapper">
+                    <ul>
+                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
+            </div>
+          </div>
+		  
+		  <div class="portfolio-item p-videos span3">
+            <div class="vc_anim vc_anim-slide"> <a href="#" class="vc_preview"> <img alt="example image" src="http://i1.ytimg.com/vi/sTL8WpQtkfU/mqdefault.jpg"  /> </a>
+              <div class="vc_hover">
+                <div class="hover-wrapper">
+                  <div class="text-wrapper">
+                    <h4> Youtube Video Example </h4>
+                  </div>
+                  <div class="icon-wrapper">
+                    <ul>
+                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
+            </div>
+          </div>
+		  
+		  <div class="portfolio-item p-videos span3">
+            <div class="vc_anim vc_anim-slide"> <a href="#" class="vc_preview"> <img alt="example image" src="http://i1.ytimg.com/vi/g4HLniX86fE/mqdefault.jpg"  /> </a>
+              <div class="vc_hover">
+                <div class="hover-wrapper">
+                  <div class="text-wrapper">
+                    <h4> Youtube Video Example </h4>
+                  </div>
+                  <div class="icon-wrapper">
+                    <ul>
+                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
+            </div>
+          </div>
+		  
+		  <div class="portfolio-item p-videos span3">
+            <div class="vc_anim vc_anim-slide"> <a href="#" class="vc_preview"> <img alt="example image" src="http://i1.ytimg.com/vi/YP348ZcmvWs/mqdefault.jpg"  /> </a>
+              <div class="vc_hover">
+                <div class="hover-wrapper">
+                  <div class="text-wrapper">
+                    <h4> Youtube Video Example </h4>
+                  </div>
+                  <div class="icon-wrapper">
+                    <ul>
+                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
+            </div>
+          </div>
+		  
+		  <div class="portfolio-item p-videos span3">
+            <div class="vc_anim vc_anim-slide"> <a href="#" class="vc_preview"> <img alt="example image" src="http://i1.ytimg.com/vi/A_s2vmClV2Y/mqdefault.jpg"  /> </a>
+              <div class="vc_hover">
+                <div class="hover-wrapper">
+                  <div class="text-wrapper">
+                    <h4> Youtube Video Example </h4>
+                  </div>
+                  <div class="icon-wrapper">
+                    <ul>
+                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
+            </div>
+          </div>
+		  
+          <div class="portfolio-item p-images p-logo span3">
             <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/01.jpg" /> </a>
               <div class="vc_hover">
                 <div class="hover-wrapper">
@@ -85,7 +160,6 @@
                   <div class="icon-wrapper">
                     <ul>
                       <li class="vc_icon"> <a data-rel="prettyPhoto" href="img/portfolio/01.jpg"> <i class="icon-zoom-in"> </i> </a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
                     </ul>
                   </div>
                 </div>
@@ -93,114 +167,8 @@
               <div class="vc_category"> <i class="icon-picture"></i> </div>
             </div>
           </div>
-          <div class="portfolio-item p-icons p-logo span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/02.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> Image Gallery Example </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a data-rel="prettyPhoto[portfolio-1]" href="img/portfolio/02.jpg"> <i class="icon-zoom-in"> </i> </a> <a class="hidden" data-rel="prettyPhoto[portfolio-1]" href="img/portfolio/01.jpg"></a> <a class="hidden" data-rel="prettyPhoto[portfolio-1]" href="img/portfolio/03.jpg"></a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-film"></i> </div>
-            </div>
-          </div>
-          <div class="portfolio-item p-web p-logo span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/03.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> Vimeo Video Example </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://vimeo.com/7874398&amp;width=700"> <i class="icon-play-sign"> </i> </a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
-            </div>
-          </div>
-          <div class="portfolio-item p-illustration span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/01.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> Single Image Example </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="img/portfolio/01.jpg"> <i class="icon-zoom-in"> </i> </a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-picture"></i> </div>
-            </div>
-          </div>
-          <div class="portfolio-item p-icons p-logo span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/02.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> Image Gallery Example </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a data-rel="prettyPhoto[portfolio-3]" href="img/portfolio/02.jpg"> <i class="icon-zoom-in"> </i> </a> <a class="hidden" data-rel="prettyPhoto[portfolio-3]" href="img/portfolio/01.jpg"></a> <a class="hidden" data-rel="prettyPhoto[portfolio-3]" href="img/portfolio/03.jpg"></a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-film"></i> </div>
-            </div>
-          </div>
-          <div class="portfolio-item p-web span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/03.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> Youtube Video Example </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="http://www.youtube.com/watch?v=ASO_zypdnsQ"> <i class="icon-play-sign"> </i> </a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-facetime-video"></i> </div>
-            </div>
-          </div>
-          <div class="portfolio-item p-illustration span3">
-            <div class="vc_anim vc_anim-slide"> <a href="portfolio-single-project.html" class="vc_preview"> <img alt="example image" src="img/portfolio/01.jpg" /> </a>
-              <div class="vc_hover">
-                <div class="hover-wrapper">
-                  <div class="text-wrapper">
-                    <h4> My Best Portfolio </h4>
-                  </div>
-                  <div class="icon-wrapper">
-                    <ul>
-                      <li class="vc_icon"> <a data-rel="prettyPhoto" href="img/portfolio/01.jpg"> <i class="icon-zoom-in"> </i> </a> </li>
-                      <li class="vc_icon"> <a href="portfolio-single-project.html"> <i class="icon-link"> </i> </a> </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="vc_category"> <i class="icon-picture"></i> </div>
-            </div>
-          </div>
+		  
+         
         </div>
         <!-- .row-fluid --> 
       </div>

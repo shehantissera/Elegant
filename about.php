@@ -23,7 +23,8 @@
                     <div class="container">
                         <h1>About <span class="vc_main-color">Us</span></h1>
                         <ul class="breadcrumb">
-                            <li><a href="#">Home</a> <span class="divider">/</span></li>
+                            <li><a href="index.php">Home</a> <span class="divider">/</span></li>
+							<li><a href="about.php">About</a> <span class="divider">/</span></li>
                             <li class="active">About Us</li>
                         </ul>
                     </div>

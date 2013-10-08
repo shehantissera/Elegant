@@ -27,20 +27,14 @@
                         <li> <a href="features-typography.html"> Tours <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-right vc_menu-2-v">
                                 <ul class="clearfix">
-                                    <li> <a href="features-typography.html"> Typography </a> </li>
-                                    <li> <a href="features-grid.html"> Grid System </a> </li>
-                                    <li> <a href="features-icons.html"> Icons </a> </li>
-                                    <li> <a href="features-elements.html"> Elements </a> </li>
-                                    <li> <a href="features-forms.html"> Forms </a> </li>
-                                    <li> <a href="features-pricing-tables.html"> Pricing Tables </a> </li>
-                                    <li class="dropdown"> <a href="#"> 3rd Level <i class="icon-caret-right"></i> </a>
-                                        <div class="vc_menu-open-right vc_menu-2-v">
-                                            <ul class="clearfix">
-                                                <li> <a href="#"> 1st Menu </a> </li>
-                                                <li> <a href="#"> 2nd Menu </a> </li>
-                                            </ul>
-                                        </div>
-                                    </li>
+                                    <li> <a href="#"> 1 Day </a> </li>
+									<li> <a href="#"> 2 Days </a> </li>
+									<li> <a href="#"> 3 Days </a> </li>
+									<li> <a href="#"> 4 Days </a> </li>
+									<li> <a href="#"> 7 Days </a> </li>
+									<li> <a href="#"> 8 Days </a> </li>
+									<li> <a href="#"> 10 Days </a> </li>
+									<li> <a href="#"> 11 Days </a> </li>
                                 </ul>
                             </div>
                         </li>
