@@ -18,10 +18,11 @@
   <div class="vc_banner-title block">
     <div class="wrapper">
       <div class="container">
-        <h1>Portfolio</h1>
+        <h1>Reviews</h1>
         <ul class="breadcrumb">
           <li><a href="index.php">Home</a> <span class="divider">/</span></li>
-          <li class="active">Portfolio</li>
+          <li><a href="about.php">About</a> <span class="divider">/</span></li>
+          <li class="active">Reviews</li>
         </ul>
       </div>
     </div>
@@ -31,70 +32,85 @@
   
   <div class="vc_portfolio block">
     <div class="wrapper">
-      <div class="container"> 
+      <div class="container">
         <ul id="portfolio-filter" class="nav nav-pills">
           <li class="active"><a href="#" data-filter="*">All</a></li>
-          <li><a href="#" data-filter=".p-images">Images</a></li>
-          <li><a href="#" data-filter=".p-videos">Videos</a></li>
-          <li><a href="#" data-filter=".p-web">Sri Lanka</a></li>
-          <li><a href="#" data-filter=".p-negombo">Negombo</a></li>
-		  <li><a href="#" data-filter=".p-colombo">Colombo</a></li>
-        </ul>
-        <div id="portfolio" class="portfolio-4 row clearfix">
-          
+		  		  
 		  <?php
-		  
+			
 			require 'inc.connection.php';
+			
+			$query2 = "SELECT DISTINCT country FROM reviews";
+			if($query_run2 = mysql_query($query2))
+			{			
+				while($rowz = mysql_fetch_assoc($query_run2))
+				{
+					$country = $rowz['country'];
+					$num = str_word_count($country);
+
+					if($num>1)
+					{
+						$madeup = str_replace(" ", "", $country);
+						echo "<li><a href='#' data-filter='.".$madeup."'>".$country."</a></li>";
+					}
+					else
+					{
+						echo "<li><a href='#' data-filter='.".$country."'>".$country."</a></li>";
+					}
+				}
+			}
+			else
+			{
+				echo mysql_error();
+			}
+			
+		  ?>
 		  
-			$query = "SELECT * FROM `medialibrary`";
+          <!--<li><a href="#" data-filter=".p-icons">Icons</a></li>
+          <li><a href="#" data-filter=".p-illustration">Illustration</a></li>
+          <li><a href="#" data-filter=".p-web">Web Design</a></li>
+          <li><a href="#" data-filter=".p-logo">Logo</a></li>-->
+
+        </ul>
+        <div id="portfolio" class="portfolio-2 row clearfix">
+		
+		<?php
+		  
+			$query = "SELECT * FROM  `reviews` ORDER BY  `id` DESC ";
 			if($query_run = mysql_query($query))
 			{			
 				while($rowz = mysql_fetch_assoc($query_run))
 				{
-					$name = $rowz['Name'];
-					$type = $rowz['Type'];
-					$content = $rowz['Content'];
+					$name = $rowz['name'];
+					$country = $rowz['country'];
+					$date = $rowz['date'];
+					$file = $rowz['file'];
 					
-					if($type=="Video")
+					$num = str_word_count($country);
+
+					if($num>1)
 					{
-						echo "<div class='portfolio-item p-videos span3'>";
-						echo "	<div class='vc_anim vc_anim-slide'> <a href='#' class='vc_preview'> <img alt='".$name."' src='http://i1.ytimg.com/vi/".$content."/mqdefault.jpg'  /> </a>";
-						echo "	  <div class='vc_hover'>";
-						echo "		<div class='hover-wrapper'>";
-						echo "		  <div class='text-wrapper'>";
-						echo "			<h4>".$name."</h4>";
-						echo "		  </div>";
-						echo "		  <div class='icon-wrapper'>";
-						echo "			<ul>";
-						echo "			  <li class='vc_icon'> <a data-rel='prettyPhoto' href='http://www.youtube.com/watch?v=".$content."'> <i class='icon-play-sign'> </i> </a> </li>";
-						echo "			</ul>";
-						echo "		  </div>";
-						echo "		</div>";
-						echo "	  </div>";
-						echo "	  <div class='vc_category'> <i class='icon-facetime-video'></i> </div>";
-						echo "	</div>";
-						echo "  </div>";
+						$country = str_replace(" ", "", $country);
 					}
-					else
-					{
-						echo "<div class='portfolio-item p-images p-logo span3'>";
-						echo "	<div class='vc_anim vc_anim-slide'> <a href='#' class='vc_preview'> <img alt='".$name."' src='img/portfolio/".$content."' /> </a>";
-						echo "	  <div class='vc_hover'>";
-						echo "		<div class='hover-wrapper'>";
-						echo "		  <div class='text-wrapper'>";
-						echo "			<h4>".$name."</h4>";
-						echo "		  </div>";
-						echo "		  <div class='icon-wrapper'>";
-						echo "			<ul>";
-						echo "			  <li class='vc_icon'> <a data-rel='prettyPhoto' href='img/portfolio/".$content."'> <i class='icon-zoom-in'> </i> </a> </li>";
-						echo "			</ul>";
-						echo "		  </div>";
-						echo "		</div>";
-						echo "	  </div>";
-						echo "	  <div class='vc_category'> <i class='icon-picture'></i> </div>";
-						echo "	</div>";
-						echo "</div>";
-					}
+					
+					echo "<div class='portfolio-item ".$country." span6'>";
+					echo "	<div class='vc_anim vc_anim-slide'> <a href='portfolio-single-project.html' class='vc_preview'> <img alt='".$name."' src='img/portfolio/".$file."' /> </a>";
+					echo "	  <div class='vc_hover'>";
+					echo "		<div class='hover-wrapper'>";
+					echo "		  <div class='text-wrapper'>";
+					echo "			<h4>".$name."</h4>";
+					echo "			<h3>".$date."</h3>";
+					echo "		  </div>";
+					echo "		  <div class='icon-wrapper'>";
+					echo "			<ul>";
+					echo "			  <li class='vc_icon'> <a href='portfolio-single-project.html'> <i class='icon-link'> </i> </a> </li>";
+					echo "			</ul>";
+					echo "		  </div>";
+					echo "		</div>";
+					echo "	  </div>";
+					echo "	  <div class='vc_category'> <i class='icon-music'></i> </div>";
+					echo "	</div>";
+					echo "</div>";
 				}
 			}
 			else
@@ -103,8 +119,9 @@
 			}
 		  
 		  ?>
-         
-        </div>
+		
+		  
+		</div>
         <!-- .row-fluid --> 
       </div>
       <!-- .container --> 

@@ -242,7 +242,7 @@
             <div class="vc_client block">
                 <div class="wrapper">
                     <div class="container">
-                        <h4> Our Client </h4>
+                        <h4> Reviews </h4>
                         <p class="subtitle"> Our Most Precious Clients </p>
                         <div class="vc_splitter"> <span class="bg"> </span> </div>
                         <div class="vc_carousel-wrap">

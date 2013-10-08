@@ -19,6 +19,7 @@
 							<div class="vc_menu-open-right vc_menu-2-v">
                                 <ul class="clearfix">
                                     <li> <a href="about.php"> About Us </a> </li>
+									<li> <a href="reviews.php"> Reviews </a> </li>
                                     <li> <a href="faq.php"> FAQ </a> </li>
 									<li> <a href="sitemap.php"> Sitemap </a> </li>
                                 </ul>
