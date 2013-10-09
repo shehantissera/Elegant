@@ -38,8 +38,8 @@
                     <div class="container">
                         <div class="row-fluid">
                             <div class="span12">
-                                <p class="subtitle"> <span class="vc_inverted">Our Company</span> Vision </p>
-                                <blockquote> We will increase the value of our company and our global portfolio of diversified brands by exceeding customers' expectations and achieving market leadership and operating excellence in every segment of our company. </blockquote>
+                                <p class="subtitle"> <span class="vc_inverted">Our Company</span> Mission </p>
+                                <blockquote> To provide social and environmentally responsible incoming tourism solutions in Sri Lanka, satisfying the desires of our clients, exceeding their expectations and turning their visit into a memorable experience. </blockquote>
                             </div>
                         </div>
                         <!-- .row-fluid --> 
