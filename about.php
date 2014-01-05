@@ -102,7 +102,7 @@
                                                 <div class="span6"><i class="icon-envelope-alt"></i>shehanproductions@ymail.com</div>
                                             </div>
                                             <div class="description vc_row">
-                                                <p> Currently employed as a software engineer with experience on developing Customized ERP systems, billing systems and website development and designing. </p>
+                                                <p> Well. I am responsible for the development of these websites and to keep them updated. </p>
                                             </div>
                                         </div>
                                     </article>
@@ -131,33 +131,17 @@
                             <!-- #vc_our-team-widget .span8 -->
                             <div id="vc_our-expertise-widget" class="span4">
                                 <div class="vc_our-expertise widget block clearfix">
-                                    <h2> Our <span class="vc_main-color"> Expertise </span> </h2>
+                                    <h2> Our <span class="vc_main-color"> Clients </span> </h2>
                                     <div class="vc_splitter"> <span class="bg"> </span> </div>
                                     <div class="clearfix"> </div>
-                                    <div>
+                                    
+									<div>
                                         <h5> Wordpress </h5>
                                         <div class="progress progress-striped active">
                                             <div class="bar bar-info" style="width:95%"> </div>
                                         </div>
                                     </div>
-                                    <div>
-                                        <h5> Photoshop </h5>
-                                        <div class="progress progress-success progress-striped active">
-                                            <div class="bar bar-info" style="width:85%"> </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <h5> HTML &amp; CSS </h5>
-                                        <div class="progress progress-warning progress-striped active">
-                                            <div class="bar bar-info" style="width:85%"> </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <h5> JQuery </h5>
-                                        <div class="progress progress-danger progress-striped active">
-                                            <div class="bar bar-info" style="width:70%"> </div>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                                 <div class="vc_testimonial widget block clearfix">
                                     <div class="vc_pager clearfix" id="vc_testimonial-pager"> </div>

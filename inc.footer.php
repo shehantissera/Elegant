@@ -101,7 +101,7 @@
                 <div class="row-fluid">
                     <div class="span6">
                         <div class="copyright pull-left">
-                            <h5> Copyright &copy;2013 NegomboTrips.com, All Rights Reserved </h5>
+                            <h5> Copyright &copy;2014 NegomboTrips.com, All Rights Reserved </h5>
                         </div>
                     </div>
                     <div class="span6">
