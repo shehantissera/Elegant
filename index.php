@@ -43,7 +43,7 @@
             <div class="vc_welcome block">
                 <div class="wrapper">
                     <div class="container">
-                        <h1> Welcome To <span class="vc_main-color"> Vencorp Premium </span> Theme </h1>
+                        <h1> Welcome To <span class="vc_main-color"> MErickson Tours </span> and Travels </h1>
                         <div class="row-fluid">
                             <div class="span2">
                                 <div class="vc_icon-round">
@@ -59,7 +59,7 @@
                                 </div>
                             </div>
                             <div class="span3">
-                                <div class="vc_button pull-left"> <a href="#" class="vc_btn "> Get this theme! </a> </div>
+                                <div class="vc_button pull-left"> <a href="contact.php" class="vc_btn "> Contact us now! </a> </div>
                                 <div class="border"> </div>
                             </div>
                         </div>
