@@ -30,8 +30,8 @@
                             <div><img alt="example image" src="img/slide-img/03.jpg" /></div>
                         </div>
                         <div id="title">
-                            <h3>Experience The Premium Taste</h3>
-                            <p><a href="#">Lorem Ipsum Doler sit Amet</a></p>
+                            <h3>Sri Lanka, a land like no other</h3>
+                            <p><a href="#">Plan your perfect tour in the country with a professional.</a></p>
                         </div>
                         <div id="pager"></div>
                     </div>        
@@ -74,7 +74,7 @@
             <div class="vc_features block">
                 <div class="wrapper">
                     <div class="container">
-                        <h2> Robust <span class="vc_main-color"> Features </span> </h2>
+                        <h2> Services <span class="vc_main-color"> provided </span> </h2>
                         <div class="row-fluid">
                             <div class="span4">
                                 <div class="vc_icon-round">
