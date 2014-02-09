@@ -18,7 +18,7 @@
   <div class="vc_banner-title block">
     <div class="wrapper">
       <div class="container">
-        <h1>FAQ</h1>
+        <h1>Frequently Asked Question [FAQ]</h1>
         <ul class="breadcrumb">
           <li><a href="index.php">Home</a> <span class="divider">/</span></li>
           <li><a href="about.php">About</a> <span class="divider">/</span></li>

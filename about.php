@@ -53,8 +53,8 @@
                 <div class="container">
                     <div class="row-fluid"> 
                         <h3>Since 1991</h3>
-                        <p> <img alt="example image" class="vc_right" src="img/about/logo-about.jpg" />Ut sit amet dignissim libero. Integer scelerisque, eros interdum suscipit rhoncus, mauris felis eleifend libero, a adipiscing arcu sapien eu nisi. Proin vehicula lacus non lacus lobortis ultricies. Nulla dui metus, viverra in sodales a, rutrum sed metus. Cras blandit vehicula ligula et fringilla. Suspendisse convallis rutrum arcu nec rutrum. Pellentesque sed felis ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum et sem eu eros fringilla bibendum quis non quam. Nunc tempor sodales tempus. </p>
-                        <p> Ut sit amet dignissim libero. Integer scelerisque, eros interdum suscipit rhoncus, mauris felis eleifend libero, a adipiscing arcu sapien eu nisi. Proin vehicula lacus non lacus lobortis ultricies. Nulla dui metus, viverra in sodales a, rutrum sed metus. Cras blandit vehicula ligula et fringilla. Suspendisse convallis rutrum arcu nec rutrum. Pellentesque sed felis ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum et sem eu eros fringilla bibendum quis non quam. Nunc tempor sodales tempus. Ut sit amet dignissim libero. Integer scelerisque, eros interdum suscipit rhoncus, mauris felis eleifend libero, a adipiscing arcu sapien eu nisi. Proin vehicula lacus non lacus lobortis ultricies. </p>
+                        <p> <img alt="example image" class="vc_right" src="img/about/logo-about.jpg" />Hi. My name is Erickson Tissera. I have being a professional tour guide and driver in Sri Lanka for over 22 years. In case you are looking for a reliable guide to show you around my country, just contact me. I would be glad to assist you in planning your vacation and advice on the best sights and guesthouses/hotels.</p>
+                        <p> I have my own minivan, which can accommodate up to 7 people and their luggage comfortably. I live with my family in Negombo, which is the nearest tourist attraction from the Sri Lankan International Airport. If you need any help please don't hesitate to contact me.</p>
                     </div>
                     <!-- .row-fluid -->
                     <div class="vc_separator"> </div>
@@ -84,7 +84,7 @@
                                                 <div class="span6"><i class="icon-envelope-alt"></i>ericksontissera@yahoo.com</div>
                                             </div>
                                             <div class="description vc_row">
-                                                <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus congue lacus eget neque. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. </p>
+                                                <p> I am the founder of this company. I am responsible for the planning and organizing tours requested by the foreign travelers who are connected with us.  </p>
                                             </div>
                                         </div>
                                     </article>
@@ -109,14 +109,14 @@
                                     <article class="blog-row clearfix">
                                         <div class="blog-left">
                                             <div class="vc_row"> <img alt="example image" src="img/about/03.jpg" /> </div>
-                                            <div class="vc_social-share"> <a title="Twitter" class="twitter" href="#"> Twitter </a> <a title="Facebook" class="facebook" href="#"> Facebook </a> <a title="Gplus" class="gplus" href="#"> G+ </a> <a title="email" class="email" href="#"> Email </a> </div>
+                                            <div class="vc_social-share"> <a title="Twitter" class="twitter" href="https://twitter.com/SheNickTis"> Twitter </a> <a title="Facebook" class="facebook" href="https://www.facebook.com/shenic.tissera"> Facebook </a> <a title="Gplus" class="gplus" href="https://plus.google.com/u/0/+ShenicTissera"> G+ </a> <a title="email" class="email" href="mailto:nickteez65@gmail.com"> Email </a> </div>
                                         </div>
                                         <div class="blog-right clearfix">
                                             <div class="information vc_row">
                                                 <h4> Shenic Tissera </h4>
                                                 <span class="position vc_inverted">Administrative Assistant</span> </div>
                                             <div class="vc_address vc_row">
-                                                <div class="span6"><i class="icon-phone"></i>+94-756-806-013</div>
+                                                <div class="span6"><i class="icon-phone"></i>+94-776-151-578</div>
                                                 <div class="span6"><i class="icon-envelope-alt"></i>shenictissera@rocketmail.com</div>
                                             </div>
                                             <div class="description vc_row">
@@ -131,84 +131,36 @@
                             <!-- #vc_our-team-widget .span8 -->
                             <div id="vc_our-expertise-widget" class="span4">
                                 <div class="vc_our-expertise widget block clearfix">
-                                    <h2> Our <span class="vc_main-color"> Clients </span> </h2>
+                                    <h2> Our <span class="vc_main-color"> Customers </span> </h2>
                                     <div class="vc_splitter"> <span class="bg"> </span> </div>
                                     <div class="clearfix"> </div>
                                     
 									<div>
-                                        <h5> Wordpress </h5>
+                                        <h5> Netherland </h5>
+                                        <div class="progress progress-striped active">
+                                            <div class="bar bar-info" style="width:95%"> </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h5> Sweden </h5>
+                                        <div class="progress progress-striped active">
+                                            <div class="bar bar-info" style="width:95%"> </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h5> United States </h5>
+                                        <div class="progress progress-striped active">
+                                            <div class="bar bar-info" style="width:95%"> </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h5> Sri Lanka </h5>
                                         <div class="progress progress-striped active">
                                             <div class="bar bar-info" style="width:95%"> </div>
                                         </div>
                                     </div>
                                     
                                 </div>
-                                <div class="vc_testimonial widget block clearfix">
-                                    <div class="vc_pager clearfix" id="vc_testimonial-pager"> </div>
-                                    <div class="clearfix"> </div>
-                                    <div class="vc_carousel-wrap">
-                                        <div class="vc_carousel clearfix">
-                                            <div class="vc_carousel-column">
-                                                <div class="testimonial-box">
-                                                    <blockquote> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. </blockquote>
-                                                </div>
-                                                <div class="caret-wrapper"> <i class="icon-caret-down"></i> </div>
-                                                <div class="clearfix"> </div>
-                                                <div class="vc_blog-list">
-                                                    <div class="blog-row">
-                                                        <div class="blog-left">
-                                                            <div class="wrapper">
-                                                                <h4>Henry Benetto</h4>
-                                                                <div class="position vc_inverted"> CEO OtherCompany.com </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="blog-right"> <img alt="example image" src="img/about/05.jpg" /> </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="vc_carousel-column">
-                                                <div class="testimonial-box">
-                                                    <blockquote> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. </blockquote>
-                                                </div>
-                                                <div class="caret-wrapper"> <i class="icon-caret-down"></i> </div>
-                                                <div class="clearfix"> </div>
-                                                <div class="vc_blog-list">
-                                                    <div class="blog-row">
-                                                        <div class="blog-left">
-                                                            <div class="wrapper">
-                                                                <h4>Doreline Michigan</h4>
-                                                                <div class="position vc_inverted"> CEO Company-2.com </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="blog-right"> <img alt="example image" src="img/about/04.jpg" /> </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="vc_carousel-column">
-                                                <div class="testimonial-box">
-                                                    <blockquote> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. </blockquote>
-                                                </div>
-                                                <div class="caret-wrapper"> <i class="icon-caret-down"></i> </div>
-                                                <div class="clearfix"> </div>
-                                                <div class="vc_blog-list">
-                                                    <div class="blog-row">
-                                                        <div class="blog-left">
-                                                            <div class="wrapper">
-                                                                <h4>Dread Dropo</h4>
-                                                                <div class="position vc_inverted"> Staff Vencorp,Inc. </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="blog-right"> <img alt="example image" src="img/about/07.jpg" /> </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- .vc_carousel --> 
-                                    </div>
-                                    <!-- .vc_carousel-wrap --> 
-
-                                </div>
-                                <!-- .vc_testimonial --> 
 
                             </div>
                             <!--  .span4  --> 

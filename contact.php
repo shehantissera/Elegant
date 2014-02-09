@@ -127,7 +127,7 @@
                                             <h4 class="vc_bg-blue"><i class="icon-map-marker"></i> Our Headquarters</h4>
                                             <div class="content">
                                                 <ul class="vc_li">
-                                                    <li>MErickson Tours & Travels Pvt. Ltd.<br />
+                                                    <li><strong>MErickson Tours & Travels Pvt. Ltd.</strong><br />
 														No. 25<br />
                                                         Mark Road,<br />
                                                         Periyamulla,<br />

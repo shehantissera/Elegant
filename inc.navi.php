@@ -21,7 +21,7 @@
                                     <li> <a href="about.php"> About Us </a> </li>
 									<li> <a href="reviews.php"> Reviews </a> </li>
                                     <li> <a href="faq.php"> FAQ </a> </li>
-									<li> <a href="sitemap.php"> Sitemap </a> </li>
+									<!--<li> <a href="sitemap.php"> Sitemap </a> </li>-->
                                 </ul>
                             </div>
 						</li>
@@ -41,7 +41,7 @@
                         </li>
                         <li> <a href="services.php"> Services </a> </li>
                         <li> <a href="portfolio.php"> Portfolio </a> </li>
-                        <li> <a href="blog-list-mini.html"> Blogs <i class="icon-caret-down"> </i> </a>
+                        <!--<li> <a href="blog-list-mini.html"> Blogs <i class="icon-caret-down"> </i> </a>
                             <div class="vc_menu-open-left vc_menu-2-v">
                                 <ul class="clearfix">
                                     <li> <a href="blog-list-mini.html"> Mini Image </a> </li>
@@ -50,7 +50,7 @@
                                     <li> <a href="blog-single.html"> Single Blog </a> </li>
                                 </ul>
                             </div>
-                        </li>
+                        </li>-->
                         <li> <a href="contact.php"> Contact Us </a> </li>
                     </ul>
                     <!-- Head menu search form ends --> 
