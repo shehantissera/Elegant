@@ -129,7 +129,37 @@
                                 <!-- .vc_blog-list --> 
                             </div>
                             <!-- #vc_our-team-widget .span8 -->
-                            <div id="vc_our-expertise-widget" class="span4">
+
+                            <?php  
+
+                            require 'inc.connection.php';
+                            echo "<div id='vc_our-expertise-widget' class='span4'>";
+                            echo "<div class='vc_our-expertise widget block clearfix'>";
+                            echo "<h2> Our <span class='vc_main-color'> Customers </span> </h2>";
+                            echo "<div class='vc_splitter'> <span class='bg'> </span> </div>";
+                            echo "<div class='clearfix'> </div>";
+
+                            $countries = "SELECT DISTINCT country FROM reviews";
+                            if($query_run2 = mysql_query($countries))
+                            {           
+                                while($rowz = mysql_fetch_assoc($query_run2))
+                                {
+                                    $country = $rowz['country'];
+                                    $numberofRows = "SELECT * FROM  `reviews` WHERE  `country` =  '".$country."'";
+                                    $num_rows = mysql_num_rows($numberofRows);
+
+                                    echo "<div><h5>".$country."</h5>";
+                                    echo "<div class='progress progress-striped active'><div class='bar bar-info' style='width:".$num_rows."%''></div></div></div>";
+                                }
+                            }
+                            else
+                            {
+                                echo mysql_error();
+                            }
+
+                            ?>
+
+                            <!--<div id="vc_our-expertise-widget" class="span4">
                                 <div class="vc_our-expertise widget block clearfix">
                                     <h2> Our <span class="vc_main-color"> Customers </span> </h2>
                                     <div class="vc_splitter"> <span class="bg"> </span> </div>
@@ -141,29 +171,11 @@
                                             <div class="bar bar-info" style="width:95%"> </div>
                                         </div>
                                     </div>
-                                    <div>
-                                        <h5> Sweden </h5>
-                                        <div class="progress progress-striped active">
-                                            <div class="bar bar-info" style="width:95%"> </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <h5> United States </h5>
-                                        <div class="progress progress-striped active">
-                                            <div class="bar bar-info" style="width:95%"> </div>
-                                        </div>
-                                    </div>
-                                    <div>
-                                        <h5> Sri Lanka </h5>
-                                        <div class="progress progress-striped active">
-                                            <div class="bar bar-info" style="width:95%"> </div>
-                                        </div>
-                                    </div>
                                     
                                 </div>
 
-                            </div>
-                            <!--  .span4  --> 
+                            </div>-->
+                             
                         </div>
                         <!-- .row-fluid -->
                         <div class="clearfix"> </div>
